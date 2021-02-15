@@ -7,9 +7,9 @@ The purpose of this excercise was to gain familiarity with supervised machine le
 ## Results
 
 Overview of results
-- Highest accuracy score: Easy ensemble classifier
-- Lowest accuracy score: SMOTE oversampling
-- Highest precision score: Easy ensemble classifier
+- Highest accuracy score: Easy Ensemble Classifier
+- Lowest accuracy score: SMOTE Oversampling
+- Highest precision score: Easy Ensemble Classifier
 
 **Naive Random Oversampling:**
 
