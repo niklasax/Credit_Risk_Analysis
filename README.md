@@ -23,4 +23,12 @@ Results: Using bulleted lists, describe the balanced accuracy scores and the pre
 
 ![Combination sampling using SMOTEENN](https://github.com/niklasax/Credit_Risk_Analysis/blob/main/Screen%20Shot%202021-02-14%20at%207.03.46%20PM.png "Combination sampling using SMOTEENN")
 
+**Balanced Random Forest Classifier using Balanced Random Forest**
+
+![Balanced Random Forest Classifier using Balanced Random Forest](https://github.com/niklasax/Credit_Risk_Analysis/blob/main/Screen%20Shot%202021-02-14%20at%207.38.37%20PM.png "Balanced Random Forest Classifier using Balanced Random Forest")
+
+**EasyEnsembleClassifier**
+
+![EasyEnsembleClassifier](https://github.com/niklasax/Credit_Risk_Analysis/blob/main/Screen%20Shot%202021-02-14%20at%207.45.52%20PM.png "EasyEnsembleClassifier")
+
 Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
