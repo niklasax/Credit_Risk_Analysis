@@ -14,6 +14,13 @@ Results: Using bulleted lists, describe the balanced accuracy scores and the pre
 ![SMOTE oversampling](https://github.com/niklasax/Credit_Risk_Analysis/blob/main/Screen%20Shot%202021-02-14%20at%206.57.03%20PM.png "SMOTE Oversampling")
 
 
+**Undersampling using ClusterCentroids**
 
+![Undersampling using ClusterCentroids](https://github.com/niklasax/Credit_Risk_Analysis/blob/main/Screen%20Shot%202021-02-14%20at%207.03.08%20PM.png "Undersampling using ClusterCentroids")
+
+
+**Combination sampling using SMOTEENN**
+
+![Combination sampling using SMOTEENN](https://github.com/niklasax/Credit_Risk_Analysis/blob/main/Screen%20Shot%202021-02-14%20at%207.03.46%20PM.png "Combination sampling using SMOTEENN")
 
 Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
