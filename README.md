@@ -1,6 +1,8 @@
 # Credit_Risk_Analysis
 
-Overview of the analysis: Explain the purpose of this analysis.
+## Overview
+
+The purpose of this excercise was to gain familiarity with supervised machine learning. In this particular example, we used various models to determine the credit risk of loans.
 
 ## Results
 
@@ -35,6 +37,6 @@ Overview of results
 
 ![EasyEnsembleClassifier](https://github.com/niklasax/Credit_Risk_Analysis/blob/main/Screen%20Shot%202021-02-14%20at%207.45.52%20PM.png "EasyEnsembleClassifier")
 
-Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
+## Summary
 
 In this particular exercise, Easy Ensemble Classifier was the best overall model to predict loan status. It had an accuracy score of 94% and a precision score of 99%. Out of 17000+ observations in the data set there were only 8 false negative predictions and less than 1000 false positive predictions, which, in the context of insurance risk profiling seems to accetpable.
