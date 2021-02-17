@@ -39,4 +39,4 @@ Overview of results
 
 ## Summary
 
-In this particular exercise, Easy Ensemble Classifier was the best overall model to predict loan status. It had an accuracy score of 94% and a precision score of 99%. Out of 17000+ observations in the data set there were only 8 false negative predictions and less than 1000 false positive predictions, which, in the context of insurance risk profiling seems to accetpable.
+In this particular exercise, Easy Ensemble Classifier was the best overall model to predict loan status. It had an accuracy score of 94% and a precision score of 99%. Out of 17000+ observations in the data set there were only 8 false negative predictions and less than 1000 false positive predictions, which, in the context of insurance risk profiling seems to acceptable.
